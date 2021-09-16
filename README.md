@@ -2,7 +2,7 @@
 - 👀 I’m interested in python, C++, reactjs
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on (nothing at the moment).
-- 📫 How to reach me ...
+- 📫 cemckyes@gmail.com
 
 <!---
 ChuckMcKyes/ChuckMcKyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
