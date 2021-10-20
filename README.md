@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChuckMcKyes
-- 👀 I’m interested in python, C++, reactjs
-- 🌱 I’m currently learning reactjs
+- 👀 I’m interested in python, C++, reactjs, django, sklearn
+- 🌱 I’m currently learning reactjs, django
 - 💞️ I’m looking to collaborate on (nothing at the moment).
 - 📫 cemckyes@gmail.com
 
