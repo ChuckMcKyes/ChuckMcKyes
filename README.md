@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChuckMcKyes
-- 👀 I’m interested in python, C++, reactjs, django, sklearn,
-      Tensorflow, rust
-- 🌱 I’m currently learning rust
+- 👀 I’m interested in python, C++, reactjs, django, sklearn, Tensorflow, rust
+- 🌱 I’m currently learning Tensorflow and rust
 - 💞️ I’m looking to collaborate on (nothing at the moment).
 - 📫 cemckyes@gmail.com
 
